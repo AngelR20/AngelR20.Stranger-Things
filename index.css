@@ -6,13 +6,16 @@ header {
     font-size: 65px;
     text-align: center;
     color: white;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/91/Stranger_Things_Logo_UBX.jpg);
-    display: block;
+    background-image: url(https://vignette.wikia.nocookie.net/strangerthings8338/images/f/fe/Stranger_Things_logo_%28brightened%2C_version_two%29.png/revision/latest?cb=20170325150005);
+    display: flex;
+    justify-content: center;
     border: 1px solid red;
     overflow: visible;
     max-height: fit-content;
     min-height: auto;
     margin: auto;
+    padding-bottom: 30%;
+
 }
 
 .th {
