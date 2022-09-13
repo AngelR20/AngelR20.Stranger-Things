@@ -5,12 +5,9 @@ body {
 header {
     color: black;
     border: 1px solid red;
-    max-width: 100%;
     display: flex;
-    float: inline-start;
-    padding: 10px;
-    margin: auto;
-    
+   align-items: center;
+   justify-content: center;
 }
 
 .th {
@@ -35,5 +32,18 @@ h1 {
 }
 
 .img {
-align-content: center;
+display: inline-block;
+width: 25%;
+
+}
+
+#head {
+    display: inline-block;
+    width: 50%;
+}
+
+.st1, .st2, .st3, .st4 {
+    display: flex;
+   align-items: center;
+   justify-content: center;
 }
