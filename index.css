@@ -3,19 +3,14 @@ body {
 }
 
 header {
-    font-size: 65px;
-    text-align: center;
-    color: rgb(6, 0, 0);
-    background-image: url(https://vignette.wikia.nocookie.net/strangerthings8338/images/f/fe/Stranger_Things_logo_%28brightened%2C_version_two%29.png/revision/latest?cb=20170325150005);
-    display: flex;
-    justify-content: center;
+    color: black;
     border: 1px solid red;
-    overflow: visible;
-    max-height: fit-content;
-    min-height: auto;
+    max-width: 100%;
+    display: flex;
+    float: inline-start;
+    padding: 10px;
     margin: auto;
-    background-size: contain;
-
+    
 }
 
 .th {
@@ -30,9 +25,15 @@ header {
 
 p {
     color: white;
+    text-align: center;
 }
 
 h1 {
     color: red;
     font-weight: bold;
+    text-align: center;
+}
+
+.img {
+align-content: center;
 }
