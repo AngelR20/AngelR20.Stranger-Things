@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+header {
+    font-size: 65px;
+    text-align: center;
+    color: white;
+    background-image: url(https://media.wired.com/photos/5926d03fcefba457b079b37c/191:100/w_1200,h_630,c_limit/StrangerThingsTitleCard.jpg);
+    padding-bottom: 35%;
+    border: 1px solid red;
+    overflow: hidden;
+}
+
+.th {
+    text-align: center;
+    font-size: large;
+    color: white;
+}
+
+.ST {
+    color: red;
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+}
