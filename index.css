@@ -8,6 +8,10 @@ header {
     display: flex;
    align-items: center;
    justify-content: center;
+   height: auto;
+   width: auto;
+   overflow: hidden;
+  
 }
 
 .th {
@@ -32,12 +36,10 @@ h1 {
 }
 
 #head {
-    display: inline-block;
-    width: 50%;
+    object-fit: scale-down;
 }
 
 .st1, .st2, .st3, .st4 {
-    display: flex;
-   align-items: center;
-   justify-content: center;
+    display: list-item;
+   text-align: center;
 }
