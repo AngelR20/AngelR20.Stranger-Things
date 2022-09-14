@@ -9,7 +9,7 @@ header {
    align-items: center;
    justify-content: center;
    height: 150px;
-   width: auto;
+   width: 40%;
    overflow: hidden;
   
 }
@@ -35,9 +35,7 @@ h1 {
     text-align: center;
 }
 
-#head {
-    width: 20%;
-}
+
 
 .st1, .st2, .st3, .st4 {
     display: list-item;
