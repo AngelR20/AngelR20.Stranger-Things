@@ -8,11 +8,7 @@ header {
     display: flex;
    align-items: center;
    justify-content: center;
-   height: 150px;
-   width: 100%;
-   overflow: hidden;
-    padding: 10px;
-  
+   
 }
 
 .th {
