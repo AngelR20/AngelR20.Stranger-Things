@@ -8,7 +8,9 @@ header {
     display: flex;
    align-items: center;
    justify-content: center;
-   
+    padding: 0% 20%;
+    margin: 0% 15%;
+  
 }
 
 .th {
@@ -24,6 +26,7 @@ header {
 p {
     color: white;
     text-align: center;
+    padding: 0px 100px;
 }
 
 h1 {
@@ -32,7 +35,9 @@ h1 {
     text-align: center;
 }
 
-
+#head {
+    max-width: 80%;
+}
 
 .st1, .st2, .st3, .st4 {
     display: list-item;
