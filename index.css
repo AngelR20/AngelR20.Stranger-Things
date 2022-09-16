@@ -9,7 +9,10 @@ header {
    align-items: center;
    justify-content: center;
     padding: 0% 20%;
-    margin: 5% 15%;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
   
 }
 
@@ -27,6 +30,7 @@ p {
     color: white;
     text-align: center;
     padding: 0px 100px;
+    
 }
 
 h1 {
@@ -39,6 +43,10 @@ h1 {
 .st1, .st2, .st3, .st4, .st5 {
     display: list-item;
    text-align: center;
+   margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 button {
