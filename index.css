@@ -38,11 +38,12 @@ h1 {
 
 
 .st1, .st2, .st3, .st4, .st5 {
-    display: list-item;
-   text-align: center;
+   display: flex;
+   align-items: center;
    justify-content: center;
-   min-width: 900px;
-   min-height: 500px;
+    padding: 0% 20%;
+    min-width: fit-content;
+    min-height: fit-content
 }
 
 button {
