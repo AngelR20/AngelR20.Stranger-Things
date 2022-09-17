@@ -40,8 +40,9 @@ h1 {
 .st1, .st2, .st3, .st4, .st5 {
     display: list-item;
    text-align: center;
-   min-width: fit-content;
-   min-height: fit-content;
+   justify-content: center;
+   min-width: auto;
+   min-height: auto;
 }
 
 button {
