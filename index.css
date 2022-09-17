@@ -17,8 +17,7 @@ header {
     text-align: center;
     font-size: large;
     color: white;
-    min-width: fit-content;
-    min-height: fit-content;
+    align-items: center;
 }
 
 .ST {
