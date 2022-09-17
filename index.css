@@ -40,7 +40,8 @@ h1 {
 .st1, .st2, .st3, .st4, .st5 {
    display: list-item;
    text-align: center;
-   
+    
+}
 
 button {
     border: 2px solid red;
