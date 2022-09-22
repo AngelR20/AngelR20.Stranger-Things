@@ -27,7 +27,6 @@ p {
     color: white;
     text-align: center;
     padding: 0px 100px;
-    justify-content: center;
     
 }
 
@@ -39,10 +38,16 @@ h1 {
 
 
 .st1, .st2, .st3, .st4, .st5 {
-   display: list-item;
+    display: list-item;
    text-align: center;
    justify-content: center;
-    
+   align-items: center;
+   
+}
+
+.text {
+    align-items: center;
+    min-width: 300px;
 }
 
 button {
