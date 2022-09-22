@@ -9,8 +9,9 @@ header {
    align-items: center;
    justify-content: center;
     padding: 0% 20%;
-    min-width: fit-content;
-    min-height: fit-content;
+    max-width: 100%;
+    min-width: 50%;
+    max-height: fit-content;
 }
 
 .th {
