@@ -48,6 +48,8 @@ h1 {
 .text {
     align-items: center;
     min-width: 600px;
+    min-height: 400px;
+    display: flex
 }
 
 button {
