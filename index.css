@@ -48,13 +48,8 @@ h1 {
    text-align: center;
    justify-content: center;
    align-items: center;
-   min-width: 30%;
+   min-width: 20%;
    
-}
-
-.st4 img {
-    display: flex;
-    min-width: 30%;
 }
 
 .text {
