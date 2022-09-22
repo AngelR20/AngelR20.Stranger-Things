@@ -5,13 +5,13 @@ body {
 header {
     color: black;
     border: 1px solid red;
-    display: flex;
-   align-items: center;
-   justify-content: center;
-    padding: 0% 20%;
-    max-width: 100%;
-    min-width: 50%;
-    max-height: fit-content;
+    display: grid;
+    grid-template: 400px/ 650px;
+    grid-column: 1;
+    grid-row: 1;
+    align-content: center;
+    justify-content: center;
+    
 }
 
 .th {
