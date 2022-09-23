@@ -108,17 +108,3 @@ a {
     justify-content: center;
 }
 
-@media only screen and (orientation: portrait) and (max-width: 440px){
-    .st1 {
-        width: 70%;
-    }
-    .st2 {
-        width: 70%;
-    }
-    .st3 {
-        width: 70%;
-    }
-    .st4 {
-        width: 65%;
-    }
-}
