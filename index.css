@@ -48,7 +48,7 @@ h1 {
     justify-content: center;
     align-items: center;
     width: 1425px;
-    height: 2500px;
+    height: 3300px;
 }
 
 
@@ -64,12 +64,28 @@ h1 {
 
 }
 
+.st1 img {
+    width: 55%;
+}
+
+.st2 img {
+    width: 45%;
+}
+
+.st3 img {
+    width: 55%;
+}
+
+.st4 img {
+    width: 55%;
+}
 
 .text {
    justify-content: center;
     align-self: center;
     width: 80%;
     font-size:large;
+    height: 150px;
     
 }
 
@@ -90,4 +106,19 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+@media only screen and (orientation: portrait) and (max-width: 440px){
+    .st1 {
+        width: 30%;
+    }
+    .st2 {
+        width: 30%;
+    }
+    .st3 {
+        width: 30%;
+    }
+    .st4 {
+        width: 25%;
+    }
 }
