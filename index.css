@@ -41,6 +41,17 @@ h1 {
     text-align: center;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 1425px;
+    height: 2500px;
+}
+
+
 
 .st1, .st2, .st3, .st4, .st5 {
     display: flex;
@@ -48,14 +59,17 @@ h1 {
    text-align: center;
    justify-content: center;
    align-items: center;
-   min-width: 20%;
-   
+   min-width: 40%;
+   width: 100%;
+
 }
+
 
 .text {
    justify-content: center;
     align-self: center;
-    width: 70%;
+    width: 80%;
+    font-size:large;
     
 }
 
