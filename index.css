@@ -107,7 +107,7 @@ a {
     justify-content: center;
 }
 
-@media only screen and (orientation: portrait){
+@media only screen and (max-width: 480px){
     .st1 img{
         width: 100%;
     }
