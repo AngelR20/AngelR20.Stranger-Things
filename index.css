@@ -108,7 +108,7 @@ a {
 
 @media only screen and (orientation: portrait) and (max-width: 440px){
     .st1 img {
-        width: 70%;
+        width: 100%;
     }
     .st2 img {
         width: 70%;
