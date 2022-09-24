@@ -117,10 +117,10 @@ a {
         width: 100%;
     }
     .st4 img{
-        width: 95%;
+        width: 98%;
     }
     .text{
         width: 100%;
-        font-size: 3rem;
+        justify-content: space-between;
     }
 }
