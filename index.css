@@ -84,7 +84,7 @@ h1 {
     width: 80%;
     font-size:large;
     height: 150px;
-    
+    display: flex;
 }
 
 button {
@@ -121,6 +121,6 @@ a {
     }
     .text{
         width: 100%;
-        justify-content: space-between;
+        
     }
 }
